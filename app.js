@@ -49,3 +49,14 @@ sendMessage().then(function () {
 const key = "AIzaSyCKAsO8JeMhpEd4z1eFJTKZKzeZk7wmTWQ"
 const id = "386330267453-q02mj47t72qgcmvku57hn5pffodvpeo4.apps.googleusercontent.com"
 const sec = "je2hS023dXjaMVLbjz_MPlQm"
+
+/*
+btoa(
+  "From: \"Esla7at\" <esla7atdotnet@gmail.com>\r\n" +
+  "To: \"Esla7at\" <esla7atdotnet@gmail.com>\r\n" +
+  "Subject: this would be the subject\r\n" +
+  "Content-type: text/html;charset=iso-8859-1\r\n\r\n" +
+
+  "Customer request for free inspection"
+).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+*/
