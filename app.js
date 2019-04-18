@@ -47,3 +47,5 @@ sendMessage().then(function () {
 });
 
 const key = "AIzaSyCKAsO8JeMhpEd4z1eFJTKZKzeZk7wmTWQ"
+const id = "386330267453-q02mj47t72qgcmvku57hn5pffodvpeo4.apps.googleusercontent.com"
+const sec = "je2hS023dXjaMVLbjz_MPlQm"
