@@ -45,4 +45,5 @@ function sendMessage() {
 sendMessage().then(function () {
   console.log('Message sent successfully!');
 });
-Resulting message 
+
+const key = "AIzaSyCKAsO8JeMhpEd4z1eFJTKZKzeZk7wmTWQ"
